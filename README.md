@@ -1,0 +1,2 @@
+# Start
+python shittytrivia.py
